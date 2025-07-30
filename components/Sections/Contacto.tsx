@@ -18,7 +18,7 @@ export default function Contacto() {
             Para hacer un pedido, consultar precios o sacarte dudas, podes
             escribirme por{" "}
             <a
-              href="https://wa.me/5492617141474"
+              href="https://wa.me/5492612539172"
               target="_blank"
               className="relative top-[2px] inline-flex items-center justify-center gap-[2px] px-[2px]"
             >

@@ -43,7 +43,7 @@ export default function Footer() {
           <li className="">
             <a
               className="p-1 flex gap-1 items-center capitalize opacity-80 hover:opacity-100 transition-opacity"
-              href="https://wa.me/5492617141474"
+              href="https://wa.me/5492612539172"
             >
               <FaWhatsapp className="lg:w-5 lg:h-5 text-background" />
               <span className="text-sm lg:text-base">whatsapp</span>
